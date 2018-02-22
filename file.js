@@ -1,5 +1,2 @@
-azscqdd
 
-
-
-var test;
+var name;
